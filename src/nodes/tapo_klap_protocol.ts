@@ -26,7 +26,7 @@ const MAX_RETRIES_GUESS = 3;
 const AXIOS_TIMEOUT = 1000;
 
 // Constants for supported Energy devices
-export const supportEnergyUsage = ["P110","P115"];
+export const supportEnergyUsage = ["P110","P115","KP125M"];
 
 // Constants for Error 
 export enum ErrorCode {
